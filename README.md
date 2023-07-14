@@ -1,4 +1,4 @@
-# Project Title: Gait Analysis with XsensDot IMU
+# Gait Analysis with XsensDot IMU
 
 # Description:
 
