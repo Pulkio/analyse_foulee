@@ -1,6 +1,6 @@
-#Project Title: Gait Analysis with XsensDot IMU
+# Project Title: Gait Analysis with XsensDot IMU
 
-#Description:
+# Description:
 
 This project is part of a master's degree program, where the main objective was to analyze the human gait using an IMU, specifically the XsensDot placed on the foot. The primary measurements derived from the sensor include stride speed, distance, and stride length.
 Scope and Limitations:
